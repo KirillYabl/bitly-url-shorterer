@@ -18,6 +18,15 @@ Then use `pip` (or `pip3`, if there is a conflict with Python2) to install depen
 pip install -r requirements.txt
 ```
 
+### How to use
+Open command line (in windows `Win+R` and write `cmd` and `Ok`). Go to directory with program or just write in cmd:
+
+`python <PATH TO PROGRAM>\bitly-url-shorterer.py <Web-link (with/without http:// or https:// or www.)>`
+
+For helping you can write in cmd:
+
+`python <PATH TO PROGRAM>\bitly-url-shorterer.py -h`
+
 ### Project Goals
 
 The code is written for educational purposes on online-course for web-developers [dvmn.org](https://dvmn.org/).
